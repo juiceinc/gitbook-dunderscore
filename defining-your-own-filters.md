@@ -4,7 +4,7 @@ description: >-
   filter.
 ---
 
-# Defining your Own Filters
+# Defining your own filters
 
 Any method mixed into underscore via the `_.mixin` method can be used as a filter.
 
