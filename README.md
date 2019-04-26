@@ -13,7 +13,7 @@ Dunderscore.js is an extension of the flexible templating of underscore.js to ad
 
 Dunderscore is a drop-in replacement for `_.template`.
 
-
+Dunderscore is used by [Juicebox](https://juicebox.gitbook.io/juicebox-docs/)
 
 
 
