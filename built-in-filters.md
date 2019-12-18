@@ -15,5 +15,13 @@ You can override either/both of these by defining your own versions.
   });
 ```
 
+```javascript
+  _.mixin({
+    emphasis: function(text) {
+      return '<b>' + text + '</b>';
+    }
+  });
+```
+
 
 
